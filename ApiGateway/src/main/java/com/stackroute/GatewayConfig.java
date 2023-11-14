@@ -1,4 +1,4 @@
-package com.stackroute.ApiGateway;
+package com.stackroute;
 
 import org.springframework.cloud.gateway.route.RouteLocator;
 import org.springframework.cloud.gateway.route.builder.RouteLocatorBuilder;

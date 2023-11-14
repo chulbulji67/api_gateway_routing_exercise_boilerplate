@@ -1,4 +1,4 @@
-package com.stackroute.ApiGateway;
+package com.stackroute;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

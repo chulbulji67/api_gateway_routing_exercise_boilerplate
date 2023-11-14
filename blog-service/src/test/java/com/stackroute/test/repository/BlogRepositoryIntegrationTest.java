@@ -1,4 +1,4 @@
-package com.stackroute.commander.test.repository;
+package com.stackroute.test.repository;
 
 import com.stackroute.domain.Blog;
 import com.stackroute.repository.BlogRepository;

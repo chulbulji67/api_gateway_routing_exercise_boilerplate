@@ -1,4 +1,4 @@
-package com.stackroute.commander.test.controller;
+package com.stackroute.test.controller;
 
 import com.stackroute.domain.Blog;
 import com.stackroute.service.BlogService;
